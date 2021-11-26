@@ -1,0 +1,194 @@
+.ribbon{
+  color: #9ac42c; 
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px;
+  font-weight: 900;
+  font-family: Arial sans-serif;
+}
+.ribbon p {
+  display: inline;
+}
+.ribbon p span{
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  background:#d33131;
+  padding: 3px 10px;
+  position: absolute;
+  top: 22px;
+  right: -25px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.2),inset 0px 5px 30px rgba(255,255,255, 0.3);
+}
+.ribbon p:before{
+  content: "";
+  width: 0;
+  position: absolute;
+  height: 0;
+  top: -17px;
+  border-color:transparent transparent #eee transparent ;
+  z-index: -1;
+  right: 69px;
+  border: 17px solid;
+  z-index: -1;
+  border-color: #eee transparent transparent transparent;
+  right: -10px;
+}
+
+.cherry{
+  color: #9ac42c; 
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px;
+  font-weight: 900;
+  font-family: Arial sans-serif;
+}
+.cherry p {
+  display: inline;
+}
+.cherry p span{
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  background:#d33131;
+  padding: 3px 10px;
+  position: absolute;
+  top: 22px;
+  right: -25px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.2),inset 0px 5px 30px rgba(255,255,255, 0.3);
+}
+.cherry p:before{
+  content: "";
+  width: 0;
+  position: absolute;
+  height: 0;
+  top: -17px;
+  border-color:transparent transparent #eee transparent ;
+  z-index: -1;
+  right: 69px;
+  border: 17px solid;
+  z-index: -1;
+  border-color: #eee transparent transparent transparent;
+  right: -10px;
+}
+
+.malina{
+  color: #9ac42c; 
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px;
+  font-weight: 900;
+  font-family: Arial sans-serif;
+}
+.malina p {
+  display: inline;
+}
+.malina p span{
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  background:#d33131;
+  padding: 3px 10px;
+  position: absolute;
+  top: 22px;
+  right: -25px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.2),inset 0px 5px 30px rgba(255,255,255, 0.3);
+}
+.malina p:before{
+  content: "";
+  width: 0;
+  position: absolute;
+  height: 0;
+  top: -17px;
+  border-color:transparent transparent #eee transparent ;
+  z-index: -1;
+  right: 69px;
+  border: 17px solid;
+  z-index: -1;
+  border-color: #eee transparent transparent transparent;
+  right: -10px;
+}
+
+
+.smorodina{
+  color: #9ac42c; 
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px;
+  font-weight: 900;
+  font-family: Arial sans-serif;
+}
+.smorodina p {
+  display: inline;
+}
+.smorodina p span{
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  background:#d33131;
+  padding: 3px 10px;
+  position: absolute;
+  top: 22px;
+  right: -25px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.2),inset 0px 5px 30px rgba(255,255,255, 0.3);
+}
+.smorodina p:before{
+  content: "";
+  width: 0;
+  position: absolute;
+  height: 0;
+  top: -17px;
+  border-color:transparent transparent #eee transparent ;
+  z-index: -1;
+  right: 69px;
+  border: 17px solid;
+  z-index: -1;
+  border-color: #eee transparent transparent transparent;
+  right: -10px;
+}
+
+.rectangle {
+    float: inherit;
+    width: 10px;
+    height:6px;
+    transform: rotate(90deg);
+    -webkit-transform: translate(-5,-20);
+    transform: translate(210px,-230px);
+    z-index: 3;
+    background: #4da1f7;
+  
+}
+
+
