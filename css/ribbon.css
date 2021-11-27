@@ -19,6 +19,7 @@ h1 {
   -ms-transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
   -o-transform: rotate(45deg);
+  transform: rotate(45deg);
   display: inline-block;
   text-align: center;
   width: 100px;
