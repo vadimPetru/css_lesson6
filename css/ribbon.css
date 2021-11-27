@@ -1,3 +1,7 @@
+
+h1 {
+  display: none;
+}
 .ribbon {
   color: #9ac42c;
   position: relative;
